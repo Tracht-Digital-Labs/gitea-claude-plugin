@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.6.3](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/compare/v0.6.2...v0.6.3) (2026-11-19)
+
+
+### Bug Fixes
+
+* **deps:** bump @hono/node-server from 2.1.5 to 2.1.8 ([#38](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/issues/38)) ([35a3fdb](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/commit/35a3fdbd6c0ee8dc11f2857c632b3bc22a9a2362))
+* **deps:** bump hono from 4.13.13 to 4.13.18 ([#39](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/issues/39)) ([d5ac59f](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/commit/d5ac59fc5fca8ca8ae2f3dc23528c9565ed87ad0))
+* **deps:** bump minimatch, eslint and typescript-eslint ([#44](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/issues/44)) ([e1ac218](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/commit/e1ac2180008b581b925c05fb833e2ebca71d8120))
+* **deps:** bump undici from 8.12.3 to 8.12.4 in the runtime group ([#40](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/issues/40)) ([2cf98d7](https://github.com/Tracht-Digital-Labs/gitea-claude-plugin/commit/2cf98d729588aacf265e56216b6119dadfe99d1a))
+
 ## [0.6.2](https://github.com/Tracht-Digital-Solutions/gitea-claude-plugin/compare/v0.6.1...v0.6.2) (2026-11-03)
 
 
